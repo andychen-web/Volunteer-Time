@@ -1,3 +1,5 @@
 // customized styling
 
-@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap/scss/functions"; // 必要的方法
+@import "../node_modules/bootstrap/scss/variables"; // 自行定義的變數路徑
+@import "../node_modules/bootstrap/scss/bootstrap.scss"; // 完整bootstrap code
