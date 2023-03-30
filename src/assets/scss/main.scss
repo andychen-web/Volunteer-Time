@@ -1,4 +1,11 @@
 // customized styling
+.bg-yellow {
+  background-color: #ffc904;
+}
+.color-code {
+  color: #cbfffa #080808 #ffd1f6 #fe9e92 #6c63ff #40ff8c #b0b0b0 #e0e1e2 #000000
+    #ffffff #21a194 #ffc904;
+}
 
 @import "../node_modules/bootstrap/scss/functions"; // 必要的方法
 @import "../node_modules/bootstrap/scss/variables"; // 自行定義的變數路徑
